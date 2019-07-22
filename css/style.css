@@ -1,0 +1,96 @@
+.bgimg{
+	background-image: url('../image/back.jpg');
+	background-attachment: fixed;
+	background-size:100% 100%;
+	width:100%;
+	height:750px;
+}
+
+.blur{
+	background-color: rgba(10,10,10,0.7);
+	width:100%;
+	height:695px;
+}
+.home-head{
+	padding-top: 260px;
+	box-sizing: border-box;
+}
+
+.blur h1{
+	margin-top: 150px; 
+}
+/*.....................navbar.................*/
+.navbar-item{
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+/*.........................our Process.....................*/
+
+.process{
+	padding-top: 30px;
+	padding-bottom: 80px;
+	padding-right:0px;
+	padding-left:0px; 
+}
+.process-setting{
+	margin:130px 100px;
+}
+.process1-setting{
+	padding-bottom:50px;
+}
+.process2-setting{
+	padding-bottom:50px;
+}
+.process3-setting{
+	padding-bottom:50px;
+}
+.process4-setting{
+	padding-bottom:50px;
+}
+.icon-setting{
+	border-radius: 50%;
+	height:100px;
+	width:100px;
+}
+.icon-setting i{
+	padding-top:25px;
+}
+
+/*.......................our Benifits....................*/
+
+.benifits{
+	background-color: rgba(225,225,225,0.7); 
+	padding-top: 30px;
+	padding-bottom: 80px;
+	padding-right:0px;
+	padding-left:0px; 
+}
+.benifits-setting{
+	margin:70px 5px;
+}
+.benifits1-setting{
+	padding-bottom:50px;
+}
+.benifits2-setting{
+	padding-bottom:50px;
+}
+.benifits3-setting{
+	padding-bottom:50px;
+}
+.benifits4-setting{
+	padding-bottom:50px;
+}
+.benifits5-setting{
+	padding-bottom:50px;
+}
+
+/*.................footer.............*/
+
+.footer{
+	bottom: 0; 
+}
+.alg{
+	right: 0;
+}
